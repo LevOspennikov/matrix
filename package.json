@@ -1,0 +1,15 @@
+{
+  "name": "matrixproj",
+  "version": "1.0.0",
+  "description": "spiral matrix output",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/jasmine/bin/jasmine.js"
+  },
+  "author": "Lev Ospennikov",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^3.1.0",
+    "jasmine-expect": "^3.8.3"
+  }
+}
